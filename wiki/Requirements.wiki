@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+#summary List all requirements here.
 
-= Introduction =
+  * ==1/3/2008==
+    * *[v]* U.S local time zone transformation
+    * *[0%]* Keep tracking history in client
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * ==12/31/2007==
+    * *[v]* Tracking page UI
+    * *[v]* Support UPS tracking number
+    * *[40%]* Google Maps integration
