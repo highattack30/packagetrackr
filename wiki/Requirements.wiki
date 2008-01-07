@@ -1,9 +1,9 @@
 #summary List all requirements here.
 
-|| *Date* || *Progress* || *Description* || ||
-|| 01/07/2008 || 0% || iPhone version || josh ||
-|| 01/03/2008 || 80% || U.S local time zone transformation || josh ||
-|| || 0% || Keep tracking history in client side || josh ||
-|| 12/31/2007 || 100% || Main page UI|| josh||
-|| || 100% || UPS tracking number support || josh||
-|| || 75% || Google Maps integration || josh ||
+|| *Date* || *Progress* || *Description* || User || Comments ||
+|| 01/07/2008 || 80% || iPhone version || josh || simple version done ||
+|| 01/03/2008 || 80% || U.S local time zone transformation || josh || need to complete city's time zoom ||
+|| || 0% || Keep tracking history in client side || josh || ||
+|| 12/31/2007 || 100% || Main page UI|| josh|| first version ||
+|| || 100% || UPS tracking number support || josh|| need to upgrade with ups api ||
+|| || 75% || Google Maps integration || josh ||  ||
