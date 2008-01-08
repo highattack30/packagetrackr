@@ -6,7 +6,7 @@
   * F: finished
 
 || *Date* || *Status* || *Progress* || *Description* || *Notes* ||
-|| 01/07/2008 || P || 0% || FedEx  tracking number support || ||
+|| 01/07/2008 || P || 0% || FedEx tracking number support || ||
 || || D || 80% || iPhone version (ui friendly in iPhone) || first version is done ||
 || 01/03/2008 || D || 80% || U.S local time zone transformation || need to be complete for all city's time zone||
 || || P || 0% ||Keep tracking history in client side || ||
