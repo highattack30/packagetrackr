@@ -1,3 +1,13 @@
 #summary Please list your suggestions.
+#labels Phase-Requirements
 
-|| *Date* || *Description* || *Submit User* || _Verify_ || _Progress_ ||
+Status:
+  * P: Planning
+  * D: Developing
+  * F: Finished 
+
+
+  *01/08/2007 (arhughes)
+    * [P] Keep tracking history in server side
+    * [P] Allow add notes for each of tracking number
+    * [P] List tracking list (auto query undelivered tracking numbers) allow user setup a query interval?
