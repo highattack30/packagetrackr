@@ -1,5 +1,5 @@
 #summary Please list your suggestions.
-#labels Phase-Requirements
+#labels Phase-Requirements,Featured
 
 Status:
   * P: Planning
