@@ -10,4 +10,4 @@ Status:
   * *01/08/2007 (arhughes)*
     * [ P ] Keep tracking history in server side
     * [ P ] Allow add notes for each of tracking number
-    * [ P ] List tracking list (auto query undelivered tracking numbers) allow user setup a query interval?
+    * [ P ] List tracking list and query undelivered tracking numbers automatically. (_allow user to setup a query interval?_)
