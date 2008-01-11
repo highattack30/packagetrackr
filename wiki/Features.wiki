@@ -6,6 +6,7 @@
   * D: Developing
   * F: Finished
 
+*Phase I* (alpha): 
 || *Date* || *Status* || *Progress* || *Description* || *Notes* ||
 || 01/09/2007 || P || 0% || Customize || allow login user customize some functions ||
 || || P || 0% || Keep tracking history in server side || ||
