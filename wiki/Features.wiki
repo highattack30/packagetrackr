@@ -11,7 +11,7 @@
 || 01/09/2007 || P ||  || Customize || allow login user customize some functions ||
 || || P ||  || Keep tracking history in server side || ||
 || || P ||  || Build a simple account system || allow sign-up||
-|| 01/07/2008 || P || 0% || FedEx tracking number support || ||
+|| 01/07/2008 || D || 5% || FedEx tracking number support || ||
 || || D || 80% || iPhone version (ui friendly in iPhone) || first version is done ||
 || 01/03/2008 || D || 80% || U.S local time zone transformation || need to be complete for all city's time zone||
 || || D || 75% ||Keep tracking history in client side || basic version ||
