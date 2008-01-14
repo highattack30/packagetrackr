@@ -8,6 +8,7 @@
 
 *Phase I* (alpha): 
 || *Submit Date* || *Status* || *Progress* || *Last Update* || *Description* || *Notes* ||
+|| 01/14/2007 || P || || || DHL tracking number support || ||
 || 01/09/2007 || P ||  || || Customize || allow login user customize some functions ||
 || || P ||  || ||  Keep tracking history in server side || ||
 || || P ||  || || Build a simple account system || allow sign-up||
