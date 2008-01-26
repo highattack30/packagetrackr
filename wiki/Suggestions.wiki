@@ -6,8 +6,10 @@ Status:
   * D: Developing
   * F: Finished 
 
+  * *01/25/2008 (wildertafur)*
+    * [ F ] Add direct link supported. (http://www.packagetrackr.com/tracking/?n=<tracking number>)
 
-  * *01/08/2007 (arhughes)*
+  * *01/08/2008 (arhughes)*
     * [ P ] Keep tracking history in server side
     * [ P ] Allow add notes for each of tracking number
     * [ P ] List tracking list and query undelivered tracking numbers automatically. (_allow user to setup a query interval?_)
