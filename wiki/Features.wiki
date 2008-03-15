@@ -8,7 +8,7 @@
 
 *Phase I* (alpha): 
 || *Submit Date* || *Status* || *Progress* || *Last Update* || *Description* || *Notes* ||
-|| 03/10/2008 || D || 70% || *03/13/2008* || Add Web Slice & Activites for IE 8 beta 1 || http://ie8.packagetrackr.com ||
+|| 03/10/2008 || F || 100% || *03/15/2008* || Add Web Slice & Activites for IE 8 beta 1 || Firefox supported ||
 || 01/25/2008 || F || 100% || 01/25/2008 || Direct link supported || http://www.packagetrackr.com/tracking/?n=<tracking number> ||
 || 01/14/2008 || P || || || DHL tracking number support || ||
 || 01/09/2008 || P ||  || || Customize || allow login user customize some functions ||
