@@ -1,0 +1,22 @@
+**Status:**
+  * P: Planning
+  * D: Developing
+  * F: Finished
+
+**Phase I** (alpha):
+| **Submit Date** | **Status** | **Progress** | **Last Update** | **Description** | **Notes** |
+|:----------------|:-----------|:-------------|:----------------|:----------------|:----------|
+| 04/01/2008      | F          | 100%         | **04/03/2008**  | Rss Subscription supported  | 	 http://www.packagetrackr.com/tracking/rss.aspx?n=<tracking number> |
+| 03/10/2008      | F          | 100%         | 03/15/2008      | Add Web Slice & Activites for IE 8 beta 1 | Firefox supported |
+| 01/25/2008      | F          | 100%         | 01/25/2008      | Direct link supported | http://www.packagetrackr.com/tracking/?n=<tracking number> |
+| 01/14/2008      | F          | 100%         | **04/03/2008**  | DHL tracking number support |           |
+| 01/09/2008      | P          |              |                 | Customize       | allow login user customize some functions |
+|                 | P          |              |                 |  Keep tracking history in server side |           |
+|                 | P          |              |                 | Build a simple account system | allow sign-up|
+| 01/07/2008      | D          | 95%          | 01/13/2008      | FedEx tracking number support |           |
+|                 | D          | 80%          | 01/07/2008      | iPhone version (ui friendly in iPhone) | first version is done |
+| 01/03/2008      | D          | 80%          | 01/04/2008      | U.S local time zone transformation | need to be complete for all city's time zone|
+|                 | D          | 75%          | 01/09/2008      | Keep tracking history in client side | basic version |
+| 12/31/2007      | F          | 100%         | 01/13/2008      | Main page ui    | first version |
+|                 | F          | 100%         | 12/31/2007      | UPS tracking number support | need to upgrade with ups api |
+|                 | D          | 95%          | 01/07/2008      | Google Maps integration | markers, ploylines, info window added |
